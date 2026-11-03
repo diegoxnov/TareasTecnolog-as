@@ -1,0 +1,201 @@
+﻿ID,Nombre,Apellido,Carrera,Ciudad,Edad,Promedio,Correo,Observación
+1,Carlos,García,Psicología,Arequipa,18,18.21,carlos.garcía1@ejemplo.edu.pe,"Apodo ""el crack"""
+2,Luis,Huamán,Ing. de Software,Puno,17,10.86,luis.huamán2@ejemplo.edu.pe,Matrícula regular
+3,Sofía,Mamani,Ing. de Software,Trujillo,17,18.27,sofía.mamani3@ejemplo.edu.pe,Becado
+4,Luis,Rodríguez,Ing. de Software,Trujillo,17,19.76,luis.rodríguez4@ejemplo.edu.pe,Matrícula regular
+5,Ana,Ramos,Derecho,Trujillo,19,15.41,ana.ramos5@ejemplo.edu.pe,Becado
+6,Andrés,Flores,Psicología,Cusco,18,15.82,andrés.flores6@ejemplo.edu.pe,Matrícula regular
+7,Camila,Rodríguez,Ing. de Software,Lima,26,10.6,camila.rodríguez7@ejemplo.edu.pe,"Delegado, tercio superior"
+8,José,Chávez,Administración,Moquegua,24,15.86,josé.chávez8@ejemplo.edu.pe,Matrícula regular
+9,Diego,Huamán,Ing. Industrial,Cusco,28,17.8,diego.huamán9@ejemplo.edu.pe,"Delegado, tercio superior"
+10,Luis,Vargas,Contabilidad,Piura,22,17.29,luis.vargas10@ejemplo.edu.pe,"Delegado, tercio superior"
+11,Lucía,Vargas,Ing. de Software,Trujillo,19,17.57,lucía.vargas11@ejemplo.edu.pe,
+12,María,Chávez,Ing. de Software,Lima,29,15.58,maría.chávez12@ejemplo.edu.pe,"Apodo ""el crack"""
+13,Fernanda,Huamán,Psicología,Moquegua,26,14.97,fernanda.huamán13@ejemplo.edu.pe,"Delegado, tercio superior"
+14,Fernanda,Chávez,Ing. de Software,Tacna,24,16.97,fernanda.chávez14@ejemplo.edu.pe,
+15,Luis,Quispe,Psicología,Piura,21,17.17,luis.quispe15@ejemplo.edu.pe,"Delegado, tercio superior"
+16,Paola,Díaz,Ing. de Software,Piura,22,11.68,paola.díaz16@ejemplo.edu.pe,"Delegado, tercio superior"
+17,Luis,Chávez,Ing. Industrial,Tacna,19,17.38,luis.chávez17@ejemplo.edu.pe,
+18,Sofía,Torres,Ing. de Software,Cusco,24,14.02,sofía.torres18@ejemplo.edu.pe,"Apodo ""el crack"""
+19,Lucía,García,Contabilidad,Tacna,28,14.15,lucía.garcía19@ejemplo.edu.pe,"Apodo ""el crack"""
+20,Carlos,Díaz,Ing. Industrial,Cusco,18,11.76,carlos.díaz20@ejemplo.edu.pe,"Apodo ""el crack"""
+21,José,Díaz,Ing. de Software,Piura,30,15.89,josé.díaz21@ejemplo.edu.pe,Becado
+22,Lucía,Flores,Ing. Industrial,Trujillo,25,13.69,lucía.flores22@ejemplo.edu.pe,
+23,Andrés,Huamán,Psicología,Arequipa,24,19.0,andrés.huamán23@ejemplo.edu.pe,Becado
+24,Fernanda,Díaz,Administración,Trujillo,23,13.94,fernanda.díaz24@ejemplo.edu.pe,Matrícula regular
+25,Diego,Díaz,Ing. de Software,Puno,18,19.85,diego.díaz25@ejemplo.edu.pe,"Apodo ""el crack"""
+26,Diego,García,Derecho,Arequipa,18,10.0,diego.garcía26@ejemplo.edu.pe,
+27,María,Ramos,Derecho,Arequipa,18,18.74,maría.ramos27@ejemplo.edu.pe,
+28,Andrés,Torres,Psicología,Tacna,22,16.02,andrés.torres28@ejemplo.edu.pe,Becado
+29,Diego,Mamani,Administración,Piura,24,14.84,diego.mamani29@ejemplo.edu.pe,
+30,Luis,García,Psicología,Moquegua,28,12.65,luis.garcía30@ejemplo.edu.pe,
+31,Raúl,Núñez,Contabilidad,Arequipa,20,19.51,raúl.núñez31@ejemplo.edu.pe,Becado
+32,Valeria,Huamán,Psicología,Arequipa,29,15.28,valeria.huamán32@ejemplo.edu.pe,Becado
+33,Camila,Mamani,Contabilidad,Moquegua,19,13.56,camila.mamani33@ejemplo.edu.pe,"Delegado, tercio superior"
+34,José,Ramos,Contabilidad,Moquegua,27,12.23,josé.ramos34@ejemplo.edu.pe,Matrícula regular
+35,Fernanda,Rodríguez,Administración,Puno,20,15.18,fernanda.rodríguez35@ejemplo.edu.pe,Becado
+36,Carlos,Núñez,Ing. de Software,Tacna,24,12.59,carlos.núñez36@ejemplo.edu.pe,
+37,Jorge,Vargas,Administración,Moquegua,22,10.81,jorge.vargas37@ejemplo.edu.pe,"Delegado, tercio superior"
+38,Luis,Rodríguez,Ing. Industrial,Moquegua,20,14.83,luis.rodríguez38@ejemplo.edu.pe,"Apodo ""el crack"""
+39,Paola,Vargas,Administración,Moquegua,29,16.43,paola.vargas39@ejemplo.edu.pe,
+40,Raúl,Díaz,Administración,Puno,24,18.89,raúl.díaz40@ejemplo.edu.pe,
+41,Sofía,Díaz,Ing. de Software,Trujillo,24,14.01,sofía.díaz41@ejemplo.edu.pe,"Delegado, tercio superior"
+42,Luis,Núñez,Ing. Industrial,Cusco,17,11.51,luis.núñez42@ejemplo.edu.pe,Becado
+43,Paola,Chávez,Contabilidad,Piura,27,19.37,paola.chávez43@ejemplo.edu.pe,Becado
+44,María,Ramos,Ing. Industrial,Arequipa,17,17.99,maría.ramos44@ejemplo.edu.pe,Matrícula regular
+45,Jorge,Díaz,Contabilidad,Cusco,23,19.87,jorge.díaz45@ejemplo.edu.pe,
+46,José,Rodríguez,Derecho,Puno,21,15.01,josé.rodríguez46@ejemplo.edu.pe,
+47,Fernanda,Vargas,Derecho,Trujillo,30,11.31,fernanda.vargas47@ejemplo.edu.pe,"Delegado, tercio superior"
+48,Paola,Núñez,Administración,Trujillo,30,19.18,paola.núñez48@ejemplo.edu.pe,"Delegado, tercio superior"
+49,Valeria,García,Ing. Industrial,Arequipa,30,14.4,valeria.garcía49@ejemplo.edu.pe,Matrícula regular
+50,María,Vargas,Ing. Industrial,Cusco,19,14.73,maría.vargas50@ejemplo.edu.pe,
+51,Jorge,Mamani,Ing. de Software,Moquegua,27,15.18,jorge.mamani51@ejemplo.edu.pe,Matrícula regular
+52,Valeria,Chávez,Contabilidad,Arequipa,20,11.91,valeria.chávez52@ejemplo.edu.pe,
+53,Ana,Mamani,Administración,Arequipa,29,18.94,ana.mamani53@ejemplo.edu.pe,Matrícula regular
+54,Luis,Chávez,Contabilidad,Puno,28,12.77,luis.chávez54@ejemplo.edu.pe,"Delegado, tercio superior"
+55,Valeria,Ramos,Contabilidad,Puno,28,15.23,valeria.ramos55@ejemplo.edu.pe,"Apodo ""el crack"""
+56,Paola,Flores,Ing. Industrial,Piura,19,14.17,paola.flores56@ejemplo.edu.pe,Matrícula regular
+57,Sofía,Chávez,Ing. de Software,Puno,23,10.73,sofía.chávez57@ejemplo.edu.pe,"Delegado, tercio superior"
+58,Camila,Flores,Ing. Industrial,Moquegua,19,12.53,camila.flores58@ejemplo.edu.pe,
+59,María,Chávez,Psicología,Lima,23,18.85,maría.chávez59@ejemplo.edu.pe,Becado
+60,María,Díaz,Ing. Industrial,Trujillo,25,14.04,maría.díaz60@ejemplo.edu.pe,Becado
+61,Sofía,Rodríguez,Derecho,Lima,28,13.66,sofía.rodríguez61@ejemplo.edu.pe,"Delegado, tercio superior"
+62,Carlos,Ramos,Administración,Arequipa,23,13.31,carlos.ramos62@ejemplo.edu.pe,"Apodo ""el crack"""
+63,Andrés,Flores,Ing. de Software,Lima,29,12.29,andrés.flores63@ejemplo.edu.pe,Matrícula regular
+64,Paola,Mamani,Derecho,Tacna,17,19.06,paola.mamani64@ejemplo.edu.pe,
+65,María,Flores,Administración,Tacna,23,11.49,maría.flores65@ejemplo.edu.pe,Becado
+66,Paola,Ramos,Administración,Moquegua,18,12.79,paola.ramos66@ejemplo.edu.pe,Matrícula regular
+67,Fernanda,Núñez,Administración,Lima,21,19.38,fernanda.núñez67@ejemplo.edu.pe,Becado
+68,Camila,Mamani,Ing. de Software,Puno,18,12.64,camila.mamani68@ejemplo.edu.pe,"Delegado, tercio superior"
+69,Luis,Chávez,Derecho,Trujillo,21,16.22,luis.chávez69@ejemplo.edu.pe,
+70,Ana,Ramos,Ing. de Software,Cusco,21,10.5,ana.ramos70@ejemplo.edu.pe,Becado
+71,José,Flores,Contabilidad,Puno,21,14.46,josé.flores71@ejemplo.edu.pe,"Delegado, tercio superior"
+72,Camila,García,Derecho,Arequipa,21,10.37,camila.garcía72@ejemplo.edu.pe,"Delegado, tercio superior"
+73,Ana,Núñez,Contabilidad,Puno,25,14.75,ana.núñez73@ejemplo.edu.pe,Matrícula regular
+74,Paola,Chávez,Psicología,Trujillo,27,14.95,paola.chávez74@ejemplo.edu.pe,
+75,Raúl,Torres,Derecho,Puno,20,13.43,raúl.torres75@ejemplo.edu.pe,Matrícula regular
+76,Raúl,Núñez,Administración,Moquegua,17,18.37,raúl.núñez76@ejemplo.edu.pe,Becado
+77,Ana,Mamani,Administración,Cusco,17,10.84,ana.mamani77@ejemplo.edu.pe,"Delegado, tercio superior"
+78,Raúl,Torres,Psicología,Tacna,26,12.42,raúl.torres78@ejemplo.edu.pe,Matrícula regular
+79,Lucía,Quispe,Ing. Industrial,Cusco,21,14.46,lucía.quispe79@ejemplo.edu.pe,"Apodo ""el crack"""
+80,Lucía,Huamán,Contabilidad,Moquegua,20,10.34,lucía.huamán80@ejemplo.edu.pe,"Delegado, tercio superior"
+81,Paola,Flores,Derecho,Cusco,17,13.35,paola.flores81@ejemplo.edu.pe,Becado
+82,Luis,Chávez,Contabilidad,Puno,20,15.05,luis.chávez82@ejemplo.edu.pe,"Delegado, tercio superior"
+83,Ana,Mamani,Ing. de Software,Cusco,23,15.87,ana.mamani83@ejemplo.edu.pe,"Delegado, tercio superior"
+84,Sofía,Quispe,Derecho,Puno,18,15.86,sofía.quispe84@ejemplo.edu.pe,"Delegado, tercio superior"
+85,Valeria,García,Administración,Moquegua,28,19.85,valeria.garcía85@ejemplo.edu.pe,Matrícula regular
+86,María,Flores,Psicología,Cusco,17,18.25,maría.flores86@ejemplo.edu.pe,Matrícula regular
+87,Jorge,Ramos,Psicología,Cusco,25,17.53,jorge.ramos87@ejemplo.edu.pe,"Apodo ""el crack"""
+88,Andrés,Quispe,Psicología,Puno,18,10.31,andrés.quispe88@ejemplo.edu.pe,Matrícula regular
+89,María,Díaz,Ing. de Software,Trujillo,30,14.51,maría.díaz89@ejemplo.edu.pe,"Delegado, tercio superior"
+90,Ana,Díaz,Psicología,Puno,24,12.64,ana.díaz90@ejemplo.edu.pe,
+91,Diego,Mamani,Contabilidad,Lima,27,15.26,diego.mamani91@ejemplo.edu.pe,Matrícula regular
+92,Jorge,Núñez,Derecho,Lima,30,12.66,jorge.núñez92@ejemplo.edu.pe,"Apodo ""el crack"""
+93,Jorge,Rodríguez,Psicología,Piura,24,18.46,jorge.rodríguez93@ejemplo.edu.pe,Becado
+94,Luis,Chávez,Ing. de Software,Puno,18,16.0,luis.chávez94@ejemplo.edu.pe,"Delegado, tercio superior"
+95,Carlos,Flores,Contabilidad,Cusco,17,14.82,carlos.flores95@ejemplo.edu.pe,"Delegado, tercio superior"
+96,Diego,Flores,Psicología,Puno,27,14.9,diego.flores96@ejemplo.edu.pe,
+97,Jorge,Ramos,Administración,Piura,24,17.67,jorge.ramos97@ejemplo.edu.pe,"Delegado, tercio superior"
+98,Paola,Ramos,Derecho,Lima,24,10.18,paola.ramos98@ejemplo.edu.pe,Becado
+99,Diego,Mamani,Administración,Tacna,23,12.1,diego.mamani99@ejemplo.edu.pe,Matrícula regular
+100,Paola,Rodríguez,Contabilidad,Lima,19,17.47,paola.rodríguez100@ejemplo.edu.pe,
+101,Lucía,Huamán,Contabilidad,Tacna,18,17.03,lucía.huamán101@ejemplo.edu.pe,Becado
+102,José,Chávez,Administración,Arequipa,19,10.04,josé.chávez102@ejemplo.edu.pe,"Apodo ""el crack"""
+103,Diego,Díaz,Administración,Tacna,28,11.41,diego.díaz103@ejemplo.edu.pe,"Apodo ""el crack"""
+104,Carlos,Torres,Ing. de Software,Moquegua,17,13.25,carlos.torres104@ejemplo.edu.pe,"Delegado, tercio superior"
+105,Carlos,Torres,Ing. Industrial,Arequipa,28,12.9,carlos.torres105@ejemplo.edu.pe,
+106,Carlos,Mamani,Administración,Lima,22,19.25,carlos.mamani106@ejemplo.edu.pe,"Apodo ""el crack"""
+107,Fernanda,Flores,Derecho,Lima,17,18.35,fernanda.flores107@ejemplo.edu.pe,
+108,Lucía,Díaz,Ing. Industrial,Tacna,23,15.11,lucía.díaz108@ejemplo.edu.pe,Becado
+109,José,Huamán,Ing. de Software,Trujillo,25,15.49,josé.huamán109@ejemplo.edu.pe,"Apodo ""el crack"""
+110,Jorge,Mamani,Psicología,Trujillo,24,16.15,jorge.mamani110@ejemplo.edu.pe,
+111,María,Díaz,Administración,Arequipa,25,11.27,maría.díaz111@ejemplo.edu.pe,"Delegado, tercio superior"
+112,Diego,Torres,Derecho,Tacna,21,17.39,diego.torres112@ejemplo.edu.pe,"Delegado, tercio superior"
+113,Camila,Flores,Psicología,Puno,21,14.83,camila.flores113@ejemplo.edu.pe,"Apodo ""el crack"""
+114,Camila,Torres,Ing. Industrial,Cusco,18,12.08,camila.torres114@ejemplo.edu.pe,
+115,Paola,Chávez,Ing. Industrial,Piura,22,19.96,paola.chávez115@ejemplo.edu.pe,Matrícula regular
+116,Diego,Torres,Contabilidad,Puno,20,10.91,diego.torres116@ejemplo.edu.pe,Becado
+117,Carlos,Ramos,Derecho,Puno,22,12.58,carlos.ramos117@ejemplo.edu.pe,
+118,Andrés,Rodríguez,Psicología,Trujillo,23,14.14,andrés.rodríguez118@ejemplo.edu.pe,
+119,Valeria,Rodríguez,Derecho,Moquegua,29,10.62,valeria.rodríguez119@ejemplo.edu.pe,"Apodo ""el crack"""
+120,Lucía,Vargas,Ing. Industrial,Puno,18,12.71,lucía.vargas120@ejemplo.edu.pe,"Delegado, tercio superior"
+121,José,Torres,Psicología,Piura,23,19.54,josé.torres121@ejemplo.edu.pe,"Apodo ""el crack"""
+122,Raúl,Quispe,Ing. de Software,Trujillo,28,17.64,raúl.quispe122@ejemplo.edu.pe,Becado
+123,Fernanda,Chávez,Administración,Arequipa,18,13.92,fernanda.chávez123@ejemplo.edu.pe,Matrícula regular
+124,Paola,Ramos,Administración,Puno,29,11.09,paola.ramos124@ejemplo.edu.pe,"Apodo ""el crack"""
+125,María,García,Psicología,Lima,30,17.22,maría.garcía125@ejemplo.edu.pe,Matrícula regular
+126,Camila,Chávez,Contabilidad,Arequipa,17,17.82,camila.chávez126@ejemplo.edu.pe,
+127,José,Vargas,Psicología,Tacna,19,16.26,josé.vargas127@ejemplo.edu.pe,
+128,Valeria,Díaz,Psicología,Lima,18,10.7,valeria.díaz128@ejemplo.edu.pe,"Apodo ""el crack"""
+129,Valeria,Vargas,Administración,Tacna,20,17.9,valeria.vargas129@ejemplo.edu.pe,Becado
+130,Ana,Quispe,Derecho,Piura,21,19.59,ana.quispe130@ejemplo.edu.pe,Matrícula regular
+131,Camila,Rodríguez,Contabilidad,Puno,25,12.47,camila.rodríguez131@ejemplo.edu.pe,"Apodo ""el crack"""
+132,Sofía,Núñez,Ing. de Software,Arequipa,20,14.98,sofía.núñez132@ejemplo.edu.pe,"Delegado, tercio superior"
+133,Camila,Díaz,Ing. de Software,Tacna,20,16.67,camila.díaz133@ejemplo.edu.pe,"Apodo ""el crack"""
+134,Paola,Huamán,Administración,Arequipa,28,13.38,paola.huamán134@ejemplo.edu.pe,Becado
+135,Sofía,Huamán,Ing. Industrial,Arequipa,29,12.92,sofía.huamán135@ejemplo.edu.pe,"Apodo ""el crack"""
+136,Raúl,Ramos,Ing. Industrial,Piura,20,13.12,raúl.ramos136@ejemplo.edu.pe,
+137,Raúl,Rodríguez,Administración,Puno,21,17.6,raúl.rodríguez137@ejemplo.edu.pe,Becado
+138,Lucía,Mamani,Administración,Cusco,20,14.85,lucía.mamani138@ejemplo.edu.pe,Matrícula regular
+139,Paola,Díaz,Contabilidad,Cusco,23,10.54,paola.díaz139@ejemplo.edu.pe,
+140,Ana,Vargas,Administración,Arequipa,28,10.6,ana.vargas140@ejemplo.edu.pe,Becado
+141,Sofía,Chávez,Psicología,Lima,18,19.32,sofía.chávez141@ejemplo.edu.pe,"Delegado, tercio superior"
+142,Carlos,Rodríguez,Psicología,Piura,17,13.12,carlos.rodríguez142@ejemplo.edu.pe,Becado
+143,Jorge,Torres,Derecho,Piura,19,11.09,jorge.torres143@ejemplo.edu.pe,"Delegado, tercio superior"
+144,Luis,Flores,Derecho,Trujillo,18,15.61,luis.flores144@ejemplo.edu.pe,
+145,Fernanda,Rodríguez,Derecho,Tacna,30,18.04,fernanda.rodríguez145@ejemplo.edu.pe,"Apodo ""el crack"""
+146,Luis,Quispe,Ing. Industrial,Moquegua,25,19.2,luis.quispe146@ejemplo.edu.pe,"Apodo ""el crack"""
+147,José,Huamán,Psicología,Piura,17,16.32,josé.huamán147@ejemplo.edu.pe,"Delegado, tercio superior"
+148,José,Díaz,Ing. de Software,Trujillo,17,14.64,josé.díaz148@ejemplo.edu.pe,"Apodo ""el crack"""
+149,Fernanda,Quispe,Ing. Industrial,Lima,26,13.39,fernanda.quispe149@ejemplo.edu.pe,"Delegado, tercio superior"
+150,Lucía,Huamán,Ing. de Software,Tacna,28,17.17,lucía.huamán150@ejemplo.edu.pe,Matrícula regular
+151,Carlos,Flores,Ing. de Software,Lima,17,18.26,carlos.flores151@ejemplo.edu.pe,"Delegado, tercio superior"
+152,Luis,Chávez,Administración,Tacna,23,18.15,luis.chávez152@ejemplo.edu.pe,"Apodo ""el crack"""
+153,María,Chávez,Ing. de Software,Tacna,30,16.92,maría.chávez153@ejemplo.edu.pe,Becado
+154,María,Vargas,Derecho,Moquegua,24,13.62,maría.vargas154@ejemplo.edu.pe,Becado
+155,Fernanda,Vargas,Contabilidad,Puno,23,17.53,fernanda.vargas155@ejemplo.edu.pe,
+156,José,Torres,Psicología,Arequipa,24,15.53,josé.torres156@ejemplo.edu.pe,
+157,Carlos,García,Ing. de Software,Lima,21,16.25,carlos.garcía157@ejemplo.edu.pe,"Apodo ""el crack"""
+158,José,Mamani,Administración,Piura,19,12.34,josé.mamani158@ejemplo.edu.pe,"Apodo ""el crack"""
+159,Sofía,Chávez,Psicología,Puno,28,15.39,sofía.chávez159@ejemplo.edu.pe,Matrícula regular
+160,Fernanda,Díaz,Derecho,Tacna,21,15.67,fernanda.díaz160@ejemplo.edu.pe,
+161,Carlos,Flores,Ing. Industrial,Piura,20,11.86,carlos.flores161@ejemplo.edu.pe,"Delegado, tercio superior"
+162,José,García,Contabilidad,Puno,22,10.65,josé.garcía162@ejemplo.edu.pe,"Delegado, tercio superior"
+163,Lucía,Rodríguez,Contabilidad,Puno,27,18.08,lucía.rodríguez163@ejemplo.edu.pe,Matrícula regular
+164,Camila,Chávez,Ing. de Software,Arequipa,24,18.83,camila.chávez164@ejemplo.edu.pe,
+165,José,Chávez,Ing. de Software,Tacna,20,11.19,josé.chávez165@ejemplo.edu.pe,"Delegado, tercio superior"
+166,José,Vargas,Ing. Industrial,Lima,22,15.13,josé.vargas166@ejemplo.edu.pe,Matrícula regular
+167,María,Chávez,Derecho,Arequipa,18,16.37,maría.chávez167@ejemplo.edu.pe,Matrícula regular
+168,Jorge,Vargas,Ing. Industrial,Arequipa,22,13.4,jorge.vargas168@ejemplo.edu.pe,"Delegado, tercio superior"
+169,Ana,Rodríguez,Ing. de Software,Puno,30,10.11,ana.rodríguez169@ejemplo.edu.pe,"Delegado, tercio superior"
+170,Carlos,Torres,Ing. Industrial,Tacna,18,12.03,carlos.torres170@ejemplo.edu.pe,"Delegado, tercio superior"
+171,Fernanda,Chávez,Administración,Lima,23,11.01,fernanda.chávez171@ejemplo.edu.pe,Matrícula regular
+172,Sofía,Díaz,Ing. Industrial,Lima,27,11.64,sofía.díaz172@ejemplo.edu.pe,Matrícula regular
+173,Jorge,Flores,Derecho,Tacna,23,19.53,jorge.flores173@ejemplo.edu.pe,"Apodo ""el crack"""
+174,Lucía,Núñez,Derecho,Trujillo,23,10.18,lucía.núñez174@ejemplo.edu.pe,Matrícula regular
+175,Fernanda,Huamán,Administración,Trujillo,20,19.42,fernanda.huamán175@ejemplo.edu.pe,Becado
+176,Sofía,García,Ing. de Software,Lima,23,15.78,sofía.garcía176@ejemplo.edu.pe,"Apodo ""el crack"""
+177,Carlos,Chávez,Ing. Industrial,Arequipa,17,15.52,carlos.chávez177@ejemplo.edu.pe,Becado
+178,Camila,Torres,Contabilidad,Moquegua,28,15.04,camila.torres178@ejemplo.edu.pe,
+179,María,Huamán,Ing. Industrial,Cusco,18,11.09,maría.huamán179@ejemplo.edu.pe,"Delegado, tercio superior"
+180,Diego,Rodríguez,Ing. Industrial,Arequipa,24,13.15,diego.rodríguez180@ejemplo.edu.pe,"Delegado, tercio superior"
+181,Andrés,Díaz,Ing. de Software,Cusco,27,17.86,andrés.díaz181@ejemplo.edu.pe,"Apodo ""el crack"""
+182,José,Vargas,Contabilidad,Puno,30,14.73,josé.vargas182@ejemplo.edu.pe,"Apodo ""el crack"""
+183,Andrés,Rodríguez,Administración,Cusco,23,13.59,andrés.rodríguez183@ejemplo.edu.pe,
+184,María,Rodríguez,Ing. de Software,Arequipa,27,18.38,maría.rodríguez184@ejemplo.edu.pe,Becado
+185,Luis,Torres,Administración,Tacna,27,14.2,luis.torres185@ejemplo.edu.pe,Matrícula regular
+186,Andrés,Rodríguez,Administración,Moquegua,24,15.04,andrés.rodríguez186@ejemplo.edu.pe,"Apodo ""el crack"""
+187,María,Quispe,Contabilidad,Piura,24,12.35,maría.quispe187@ejemplo.edu.pe,
+188,Fernanda,Vargas,Ing. Industrial,Piura,23,11.07,fernanda.vargas188@ejemplo.edu.pe,"Apodo ""el crack"""
+189,María,Huamán,Derecho,Lima,29,14.42,maría.huamán189@ejemplo.edu.pe,"Apodo ""el crack"""
+190,Valeria,Díaz,Ing. de Software,Cusco,18,19.22,valeria.díaz190@ejemplo.edu.pe,
+191,Carlos,Núñez,Ing. de Software,Arequipa,29,15.04,carlos.núñez191@ejemplo.edu.pe,Matrícula regular
+192,Sofía,Díaz,Ing. de Software,Lima,26,17.32,sofía.díaz192@ejemplo.edu.pe,Becado
+193,Raúl,Mamani,Ing. Industrial,Piura,21,19.57,raúl.mamani193@ejemplo.edu.pe,Becado
+194,Paola,García,Ing. de Software,Moquegua,26,17.56,paola.garcía194@ejemplo.edu.pe,Becado
+195,María,Huamán,Derecho,Piura,19,12.54,maría.huamán195@ejemplo.edu.pe,Matrícula regular
+196,Paola,Chávez,Contabilidad,Tacna,26,15.06,paola.chávez196@ejemplo.edu.pe,Becado
+197,Carlos,Huamán,Ing. Industrial,Cusco,23,11.61,carlos.huamán197@ejemplo.edu.pe,
+198,Paola,Flores,Administración,Cusco,29,17.85,paola.flores198@ejemplo.edu.pe,"Delegado, tercio superior"
+199,Luis,Ramos,Psicología,Moquegua,30,14.53,luis.ramos199@ejemplo.edu.pe,
+200,Valeria,Vargas,Derecho,Trujillo,28,17.98,valeria.vargas200@ejemplo.edu.pe,
